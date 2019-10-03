@@ -5,13 +5,13 @@ This repository consists of machine Learning models, deep learning models and so
 + Link to Datasets used:https://drive.google.com/open?id=1NC4CmlifjKnT94bNJvSV4_r9xD1UOWrA
 
 
-**1 Designing the preprocessing template**
+**1. Designing the preprocessing template**
 + It was able to load the dataset on its own.
 + Fill the missing values using final methods and the techniques you have used to fill them.
 + Using standard scalar functions to standardize the attributes of the column.
 + One hot encoding of categorical features so that they could be sent to the algorithmic models which use numerical models to build the model.
 
-**2: Design a template which identifies the most important independent features in the dataset.**
+**2. Design a template which identifies the most important independent features in the dataset.**
 + Used the above mentioned preprocessing template to preprocess the data which
 way shows the utility of in work.
 + BLACK FRIDAY DATASET was used as reference-One of the very popular datasets which is highly skewed and have categorical attributes as input independent features and continuous output.
@@ -26,7 +26,7 @@ way shows the utility of in work.
 analyte the utility of our model
 + Health data set was used as a reference.
 
-**4.Topic Modelling**
+**4. Topic Modelling**
 + Twitter's Climate dataset was used for reference and to extract the different topics
 which might have been used in the discussion of the tweets
 + NLP techniques such as tokenizing lemmatization, stop words removal, POS tagging was used.
@@ -36,7 +36,7 @@ which might have been used in the discussion of the tweets
 negative relationship between all these values
 Algorithms used in topic modeling were LDA Latent Dirichlet and NM
 
-**5.SEQUENCE2SEQUENCE MODELLING.**
+**5. SEQUENCE2SEQUENCE MODELLING.**
 
 + Prediction of Song lyrics and different text based on feed data into the model
 + Completion of all the modules in coursera course and its assignments
