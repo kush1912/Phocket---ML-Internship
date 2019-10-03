@@ -1,0 +1,15 @@
+https://www.kaggle.com/erikbruin/text-mining-the-clinton-and-trump-election-tweets
+
+https://www.kaggle.com/thoughtvector/customer-support-on-twitter
+
+https://www.kaggle.com/dataturks/dataset-for-detection-of-cybertrolls
+
+https://www.kaggle.com/davidwallach/financial-tweets
+
+https://www.kaggle.com/nursah/airline-tweets-sentiment-analysis
+
+https://www.kaggle.com/crowdflower/twitter-user-gender-classification
+
+https://www.kaggle.com/crowdflower/first-gop-debate-twitter-sentiment/discussion/18265#latest-103737
+
+https://www.kaggle.com/rgupta09/world-cup-2018-tweets
